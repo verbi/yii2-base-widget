@@ -20,7 +20,7 @@
         ],
 	"autoload": {
 		"psr-4": {
-			"verbi\\yii2Helpers\\": "src/"
+			"verbi\\yii2BaseWidget\\": "src/"
 		}
 	}
 }
