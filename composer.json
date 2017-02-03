@@ -1,0 +1,26 @@
+{
+	"name": "verbi/yii2-base-widget",
+	"description": "Yii2 base widget Extension.",
+	"keywords": ["yii2", "extension", "base", "widget"],
+	"type": "yii2-extension",
+	"license": "GPLv3",
+	"authors": [
+		{
+			"name": "Philip Verbist",
+			"email": "philip.verbist@gmail.com"
+		}
+	],
+	"support": {
+		"source": "https://github.com/verbi/yii2-base-widget"
+	},
+        "requires": [
+          {
+              
+          }
+        ],
+	"autoload": {
+		"psr-4": {
+			"verbi\\yii2Helpers\\": "src/"
+		}
+	}
+}
